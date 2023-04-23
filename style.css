@@ -21,3 +21,8 @@ ul {
 	text-align: center;
 	font-family: "Helvetica", Calibri;
 }
+ 
+body {
+	color: black;
+	background-color: #333;
+}
