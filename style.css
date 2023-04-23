@@ -5,3 +5,19 @@
 	font-family: "Helvetica", Calibri;
 }
 
+p { 
+	text-align: center;
+	font-family: "Helvetica", Calibri;
+}
+
+img {
+	float: center;
+	height: 600px;
+	width: 600px;
+	object-fit: cover;
+}
+
+ul {
+	text-align: center;
+	font-family: "Helvetica", Calibri;
+}
